@@ -12,4 +12,4 @@ def xyz(a,b):
     
     else:
         return c
-print(xyz(20,30))
+print(xyz(40,30))
